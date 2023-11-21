@@ -1,0 +1,180 @@
+.content1 img{
+width: 100px;
+heiht: 100px;
+padding-top: 100px;
+}
+.content1 h1{
+    color: white;
+    font-size: 60px;
+    font-weight: 900;
+}
+.content1 p{
+    color: white;
+    letter-spacing: 5px;
+    font-size: 20px;
+    font-weight: 300;
+    padding-top: 26px;
+}
+.content1 a{
+    color: white;
+    letter-spacing: 5px;
+    font-size: 20px;
+    font-size: 300;
+}
+button{
+    background-color: white; color: #292870; font-size: 25px; border-style: none; padding: 15px; border-radius: 50px; font-weight: 700; padding-left: 25px; padding-right: 25px;
+    letter-spacing: 1px;
+}
+
+button:hover{
+    background-color:#292870;
+    color: #fff;
+}
+.one button{
+    background-color: #292870;
+    color: #fff;
+}
+.one button:hover{
+    background-color: #efab47;
+    }
+    .content3 p{
+        color: white;
+        letter-spacing: 5px;
+        font-size: 20px;
+        font-weight: 300;
+        padding-top: 26px;
+    }
+    .content3 a{
+        color: white;
+        letter-spacing: 5px;
+        font-size: 20px;
+        font-size: 300;
+    }
+    .content3 h1{
+        color:  #efab47;
+        font-size: 40px;
+        font-weight: 400;
+        padding-top: 50px;
+    }
+    .content3 h4{
+        color: #fff;
+        font-size: 20px;
+        padding-top: 40px;
+        line-height: 35px;
+        
+    }
+    .content3 button{
+        background-color: #efab47;
+    }
+    .content3 button:hover{
+        background-color: #292870;
+        }
+        .content4 h1{
+            font-size: 80px;
+            font-weight: 900;
+            color: #fff;
+            padding-top: 60px;
+        }
+        .content4 h4{
+            font-size: 40px;
+            font-weight: 400;
+            color: #fff;
+        letter-spacing: 5px;
+        }
+        .content4 p{
+            color: white;
+            letter-spacing: 5px;
+            font-size: 25px;
+            font-weight: 300;
+            padding-top: 26px;
+        }
+        .content4 a{
+            color: white;
+            letter-spacing: 5px;
+            font-size: 25px;
+            font-size: 300;
+        }
+        .content4 h2{
+            padding-top: 130px;
+            color: #fff;
+            font-size:50px;
+        }
+        .no p{
+            color: white;
+            font-size: 20px;
+            padding: 0px;
+            letter-spacing: 0px;
+        }
+        .no{
+            padding-top: 20px;
+        }
+        .content5 h1{
+            font-size: 50px;
+            font-weight: 700;
+            color: #efab47;
+            letter-spacing: 5px;
+        }
+        .content5 h2{
+            color: #efab47;
+            font-size: 25px;
+            padding-top: 20px;
+        }
+        .ss{
+            color: #fff;
+            /* padding-top: 20px; */
+            font-size: 20px;
+        }
+        .bb{
+            padding-top: 50px;
+        }
+        .bb button {
+     background-color: #efab47;
+        }
+        .bb button:hover{
+            background-color: #fff;
+            color: #292870;
+        }
+.content6 h1 {
+    font-size: 90px;
+    font-weight: 800;
+    color: #fff;
+}
+.content6 h2{
+    letter-spacing: 5px;
+    color: #fff;
+}
+.content6 h3{
+    color: #fff;
+    line-height: 35px;
+}
+.content6 p{
+    color: #fff;
+    font-size: 20px;
+    padding-top: 10px;
+}
+.content6 a {
+    color: #fff;
+}
+.content7 h1{
+    color: #efab47;
+    font-size: 50px;
+    font-weight: 500;
+}
+.content7 p{
+    color: #fff;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.content7 a {
+    color: #fff;
+}
+.content7 button{
+    background-color: #efab47;
+    color: #292870;
+}
+.content7 button:hover{
+    background-color: #fff;
+    }
+    placeholder{
+        color: #fff;
+    }
